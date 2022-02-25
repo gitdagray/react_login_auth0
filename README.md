@@ -4,7 +4,7 @@
 
 **Description:**
 
-This repository shares the code applied during the [YouTube Tutorial](). 
+This repository shares the code applied during the [YouTube Tutorial](https://youtu.be/pAzqscDx580). 
 
 Just starting with React? I have a [9 hour React course tutorial video](https://youtu.be/RVFAyFWO4go) on my channel.  
 
